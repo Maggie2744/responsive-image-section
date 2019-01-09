@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  font-family: sans-serif;
 }
 
 *, *::before, *::after {
@@ -12,10 +13,17 @@ html {
 @-webkit-viewport { width: device-width; scale: 1; }
 @viewport { width: device-width; scale: 1; }
 
+body {
+  background-color: #e2e2e2;
+  color: #000;
+}
+
 img {
   display: block;
   width: 100%;
 }
+
+
 
 @media only screen and (min-width: 25em) {
 }
