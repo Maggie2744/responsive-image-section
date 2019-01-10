@@ -84,12 +84,22 @@ a:hover {
     width: 100%;
   }
 
+  section {
+    vertical-align: middle;
+  }
+
+  img {
+    padding: 1.5rem;
+  }
+
   .content {
     max-width: 50%;
+    text-align: left;
   }
 
   .img-flex {
     max-width: 50%;
+    text-align: center;
   }
 
 }
