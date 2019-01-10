@@ -82,7 +82,6 @@ a:hover {
   .content {
     display: inline-block;
     width: 50%;
-    float: left;
   }
 
   .img-flex {
