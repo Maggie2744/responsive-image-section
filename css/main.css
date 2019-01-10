@@ -95,12 +95,13 @@ a:hover {
 
   img {
     padding: .5rem;
-    padding-top: 2rem;
+    padding-top: 2.5rem;
   }
 
   .content {
     max-width: 50%;
     text-align: left;
+    padding-top: 2rem;
   }
 
   .img-flex {
