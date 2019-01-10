@@ -40,7 +40,7 @@ img {
 a {
   background-color: #555;
   color: #fff;
-  padding: 0.5em;
+  padding: .5em;
   border-radius: 4px;
   text-decoration: none;
 }
@@ -80,7 +80,7 @@ a {
   }
 
   section {
-    width: 50%
+    width: 50%;
   }
 
 }
