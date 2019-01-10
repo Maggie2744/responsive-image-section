@@ -95,7 +95,8 @@ a:hover {
 
   img {
     padding: 1.5rem;
-    max-width: 350px;
+    padding-top: .5rem;
+    max-width: 325px;
   }
 
   .content {
