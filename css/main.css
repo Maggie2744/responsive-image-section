@@ -54,6 +54,7 @@ a:hover {
 }
 
 .img-flex {
+  display: inline-block;
   width: 100%;
 }
 
