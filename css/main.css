@@ -94,7 +94,8 @@ a:hover {
   }
 
   img {
-    padding: 1.5rem;
+    padding: .5rem;
+    padding-top: 2rem;
   }
 
   .content {
