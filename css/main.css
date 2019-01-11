@@ -140,4 +140,15 @@ a:hover {
     font-size: 130%;
   }
 
+  .content {
+    padding: 4rem;
+    padding-right: 0;
+  }
+
+  .img-flex {
+    padding: 4rem;
+    padding-left: .5rem;
+  }
+
+
 }
