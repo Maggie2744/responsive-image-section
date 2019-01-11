@@ -123,6 +123,10 @@ a:hover {
     margin: 0 0 1.5rem;
   }
 
+  h1 {
+    padding-top: 2rem;
+  }
+
 }
 
 @media only screen and (min-width: 90em) {
